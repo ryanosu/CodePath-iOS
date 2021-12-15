@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://gfycat.com/onlyjubilantafricanrockpython' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://gfycat.com/onlyjubilantafricanrockpython
 
 GIF created with [GFycat](http://www.gfycat.com).
 
